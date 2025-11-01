@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Orchestrating 15 People to Build Snake"
+permalink: /snake
+---
+
 # Orchestrating 15 People to Build Snake
 For a university software project we were assigned the task to build the calssical snake game in our exercise group. An MVP should be ready in two months and there are no requirements. So I'm here to document it all.
 It sounds like an easy task, in fact, to get a glimpse of the game engine LibGDX that the team decided upon, I just built snake in an hour. So we're finished, aren't we? My plan is to use this project to simulate a 
