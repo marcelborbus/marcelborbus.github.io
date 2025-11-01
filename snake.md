@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "Orchestrating 15 People to Build Snake"
 permalink: /snake
 ---
